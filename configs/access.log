@@ -1,0 +1,13 @@
+::1 POST /api/addHotel 200 - Tue, 23 Aug 2022 23:54:23 GMT
+[36m[-] Request: [33mPOST [37m/api/addHotel
+[35m[undefined] Request Body:[0m
+[37m{[0m
+[37m	"name": "Hotel5",[0m
+[37m	"totalRooms": "60"[0m
+[37m}[0m
+[35m[undefined] Response Body:[0m
+[37m{[0m
+[37m	"status": 1,[0m
+[37m	"message": "Hotel Details Inserted successfully."[0m
+[37m}[0m
+[36m[-] Response: [32m200 [37m103.069 ms 
